@@ -3,16 +3,34 @@ VideoSpy
 
 Uses large scale databases (i.e YouTube) to find videos that the user will like. 
 
-
+========
 
 
 
 PSUDO
 =====
+//Fill In Psudo Here
 
-User Inputs Genre ---> Searches for videos of genres ---> Plays Video
-                     [If User Previosly Liked Specific Vids
-                  Search For Vids With Same Tags and Youtuber]
-                  
-                  
-If User Down/Upvote Video ---> Store boolean Variable Localy with video tag data
+
+=====
+
+
+Requirments
+===========
+Algorithm should deal with:
+                     Likes On A Video ------ Youtubes
+                     + and - Comments On A Video ----- Youtubes
+                     Up and Downvote of Video ------- Client Side
+                     Tags of video ------- Youtubes
+                     Genre/Youtuber Name/Word ------ Client Side 
+                     Content Of Video ------ Youtube
+                     .........
+                     <!-- Others -->
+
+Content Of Video:
+/**Some videos have tags and names that fit them into search results.
+ **However, they are not appropriate to users search.
+ **For instance, user searches up kids cartoons and family guy turns on, because it is a cartoon
+ **/
+                   <!-- Requires Algorithm -->
+===========          
