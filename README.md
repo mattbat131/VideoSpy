@@ -19,7 +19,13 @@ Requirments
 ===========
 Algorithm should deal with:
                      Likes On A Video ------ Youtubes
-                     + and - Comments On A Video ----- Youtubes
+                     //+ and - Comments On A Video ----- Youtubes
+                     Analytics Of A Video --------- Youtube
+                                          Time spent watching
+                                          Etc.....
+                     Analytics Of A Video --------- Client Side
+                                          Time spent watching
+                                          Etc......
                      Up and Downvote of Video ------- Client Side
                      Tags of video ------- Youtubes
                      Genre/Youtuber Name/Word ------ Client Side 
